@@ -1,4 +1,4 @@
-# Wall Street Data Analysis 
+# Wall Street Data Analysis using VBA
 
 I used VBA to analyze real stock market data from 2014-2016
 
